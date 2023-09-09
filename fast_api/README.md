@@ -1,4 +1,4 @@
-# FastAPI
+# Getting started with FastAPI ⚡
 
 ## Overview
 
@@ -6,7 +6,7 @@ An Introductory talk on FastAPI where we'll dive into the fundamentals of an API
 
 ## Presentation Slides
 
-- [Google Slides](https://docs.google.com/presentation/d/11RNqcgRS7o4QV5UcWXKVisCeru97YnBGsnfRwrEXUcM/edit?usp=sharing)
+<kbd> <br> [Slides](https://docs.google.com/presentation/d/11RNqcgRS7o4QV5UcWXKVisCeru97YnBGsnfRwrEXUcM/edit?usp=sharing) <br> </kbd>
 
 ---
 
