@@ -8,4 +8,4 @@ If you're interested in any of my talks, you can follow these steps to access th
 
 1. Navigate to the respective talk directory.
 2. Download the slides and code as needed.
-3. Check the `resources.md` file for any additional links or resources related to the talk.
+3. Check the `README.md` file for any additional links or resources related to the talk.
